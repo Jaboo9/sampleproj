@@ -1,3 +1,5 @@
+# Demonstrating the functionality of code reviewers on GitHub
+
 require 'shopify_api'
 require 'sinatra'
 require 'httparty'
