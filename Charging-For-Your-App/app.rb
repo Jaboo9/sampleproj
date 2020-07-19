@@ -2,6 +2,7 @@
 # Lets see how it works
 # It worked but still testing
 # Testing out code review assignment
+# Changed to round-robin
 
 require 'shopify_api'
 require 'sinatra'
