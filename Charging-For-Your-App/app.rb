@@ -2,6 +2,9 @@
 # Lets see how it works
 # It worked but still testing
 # Testing out code review assignment
+# It worked just trying to demonstrate round-robin concept.. I hope @jide2020 is assigned next.
+
+
 
 require 'shopify_api'
 require 'sinatra'
