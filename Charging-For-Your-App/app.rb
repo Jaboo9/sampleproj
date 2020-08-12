@@ -1,5 +1,7 @@
 # Demonstrating the functionality of code reviewers on GitHub
 # Lets see how it works
+# It worked but still testing
+# Testing out code review assignment
 
 require 'shopify_api'
 require 'sinatra'
@@ -206,6 +208,3 @@ class GiftBasket < Sinatra::Base
 end
 
 run GiftBasket.run!
-
-
-#End
