@@ -1,6 +1,8 @@
 # Demonstrating the functionality of code reviewers on GitHub
 # Lets see how it works
 # It worked but still testing
+# Testing out code review assignment
+# Making changes with @jaboo9
 
 require 'shopify_api'
 require 'sinatra'
