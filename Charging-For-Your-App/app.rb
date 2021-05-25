@@ -1,5 +1,8 @@
 # Demonstrating the functionality of code reviewers on GitHub
 # Lets see how it works
+# It worked but still testing
+# Testing out code review assignment
+# Apparently he was not assigned
 
 require 'shopify_api'
 require 'sinatra'
