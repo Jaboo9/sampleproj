@@ -2,7 +2,7 @@
 # Lets see how it works
 # It worked but still testing
 # Testing out code review assignment
-# Apparently he was not assigned
+# Making changes with @jaboo9
 
 require 'shopify_api'
 require 'sinatra'
