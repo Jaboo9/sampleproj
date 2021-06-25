@@ -1,0 +1,23 @@
+commit 996c508004ada3f9cbe5556acaf1d44f44864781
+Merge: 1df052d a90e86d
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Wed Aug 12 16:47:06 2020 +0100
+
+    Merge pull request #16 from mytechconaorg/revert-15-Jaboo9-patch-6
+    
+    Revert "checking out code review [deleted some comment] app.rb"
+
+commit a90e86d9cc03371c8062b2fa528e24c727c3db08
+Author: Shaun <ayodejibabajide@gmail.com>
+Date:   Wed Aug 12 16:37:30 2020 +0100
+
+    Revert "checking out code review [deleted some comment] app.rb"
+
+commit 1df052d4fea171c6c978ec430d337cbf59eff249
+Merge: 317d5c4 88b27aa
+Author: Shaun <jaboo9@github.com>
+Date:   Wed Aug 12 15:35:27 2020 +0000
+
+    Merge pull request #15 from mytechconaorg/Jaboo9-patch-6
+    
+    checking out code review [deleted some comment] app.rb
