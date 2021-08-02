@@ -1,0 +1,182 @@
+commit c75531e7f40cd2227a7d5aacc555f5aeb17dc108
+Author: Shaun <jaboo9@github.com>
+Date:   Thu Oct 29 20:20:37 2020 +0100
+
+    SUP-1 #Comment This is Jira demo
+
+commit 996c508004ada3f9cbe5556acaf1d44f44864781
+Merge: 1df052d a90e86d
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Wed Aug 12 16:47:06 2020 +0100
+
+    Merge pull request #16 from mytechconaorg/revert-15-Jaboo9-patch-6
+    
+    Revert "checking out code review [deleted some comment] app.rb"
+
+commit a90e86d9cc03371c8062b2fa528e24c727c3db08
+Author: Shaun <ayodejibabajide@gmail.com>
+Date:   Wed Aug 12 16:37:30 2020 +0100
+
+    Revert "checking out code review [deleted some comment] app.rb"
+
+commit 1df052d4fea171c6c978ec430d337cbf59eff249
+Merge: 317d5c4 88b27aa
+Author: Shaun <jaboo9@github.com>
+Date:   Wed Aug 12 15:35:27 2020 +0000
+
+    Merge pull request #15 from mytechconaorg/Jaboo9-patch-6
+    
+    checking out code review [deleted some comment] app.rb
+
+commit 88b27aa1fa6131664199365ce05b09887fad69dc
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Wed Jul 29 10:54:16 2020 +0100
+
+    Updating the code review commit
+    
+    Adding #End, the expectation here is to add a new commit and see how it impact the on-going code review.
+
+commit 4dc3cbbb176c03b5fc53251f551567b2eab05ede
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Wed Jul 29 10:44:10 2020 +0100
+
+    Update app.rb
+
+commit 317d5c4b028ad33c205291532177ffb797174900
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Wed Jul 29 10:42:44 2020 +0100
+
+    Update CODEOWNERS
+
+commit b8f886936a0a08b2c0141ae404933ea1c7f10fcb
+Merge: bdbf317 4cba7ab
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Tue Jul 21 21:06:43 2020 +0100
+
+    Merge pull request #11 from mytechconaorg/Jaboo9-patch-4
+    
+    Update CODEOWNERS
+
+commit 4cba7ab13d96af9f33b7bb663e55d2993490d5ff
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Tue Jul 21 21:04:29 2020 +0100
+
+    Update CODEOWNERS
+
+commit bdbf31750318e0caa335810388e8e0226b0e9993
+Merge: 087eb26 e7713bb
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Mon Jul 20 00:18:08 2020 +0100
+
+    Merge pull request #6 from mytechconaorg/jide2020-patch-4
+    
+    Update app.rb
+
+commit e7713bbaeb0bc9f09ddfa214cffd4944257790d9
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Mon Jul 20 00:15:48 2020 +0100
+
+    Update app.rb
+
+commit 087eb2625e88b1acbb73f8ecf43c81b49ec1ad4c
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Mon Jul 20 00:11:25 2020 +0100
+
+    Update CODEOWNERS
+
+commit ac7a1e95946851002e53e3703f7fa7c098aa23f6
+Merge: bdb49d1 bdb6520
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Mon Jul 20 00:01:15 2020 +0100
+
+    Merge pull request #5 from mytechconaorg/Jaboo9-patch-2
+    
+    Update app.rb
+
+commit bdb65203488edd02e67b43ed3d1e8141803ab312
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 23:56:31 2020 +0100
+
+    Update app.rb
+
+commit bdb49d17f5bcecc11f1867bcae50dfeed4d6ee4e
+Merge: 41778eb edbb3f1
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 23:55:14 2020 +0100
+
+    Merge pull request #4 from mytechconaorg/jide2020-patch-3
+    
+    Update CODEOWNERS
+
+commit edbb3f1df0f1bc5e51bf7e4228f1373a3501cc79
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Sun Jul 19 23:53:27 2020 +0100
+
+    Update CODEOWNERS
+
+commit 41778eb82b299c1ada94653d31229fbd4900a9ab
+Merge: 7ae0579 6ae7fc8
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Sun Jul 19 21:44:53 2020 +0100
+
+    Merge pull request #1 from mytechconaorg/Jaboo9-patch-1
+    
+    Update app.rb
+
+commit 6ae7fc80d9d9187ab9bfc1a3acc9a8171800a1f0
+Author: jide2020 <64502150+jide2020@users.noreply.github.com>
+Date:   Sun Jul 19 21:44:29 2020 +0100
+
+    Update app.rb
+
+commit 7ae0579d11493835131e19a13733c6db12624e26
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 21:41:00 2020 +0100
+
+    Update CODEOWNERS
+
+commit 4d7b2889dd709ddcf375a136eb7895d098ca9d24
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 21:38:16 2020 +0100
+
+    Update CODEOWNERS
+
+commit 7cff55d8c068e56c8a3585c6caabec97e2e955b6
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 21:37:07 2020 +0100
+
+    Rename .CODEOWNERS to .github/CODEOWNERS
+
+commit 95e0ad55914a47df530cb0f8f9b6dfca86741bd2
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 21:34:38 2020 +0100
+
+    Rename CODEOWNERS to .CODEOWNERS
+
+commit b823bee4a0fdfded6a1af2cd7ccd7dd8a6bf0fdb
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 21:29:15 2020 +0100
+
+    Update app.rb
+    
+    Demonstrating the functionality of code reviewer
+
+commit f38ccaefde1d499bdbe69bb2ce4c31a0cd3770cf
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 21:17:47 2020 +0100
+
+    Update CODEOWNERS
+
+commit bbbcec8afc754243f1d0d064dd6ebe43dc9445fc
+Author: Oluwaseun Ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 20:55:58 2020 +0100
+
+    Create CODEOWNERS
+    
+    Initial commit for codeowner file
+
+commit 6838725e51f56ccb9f7b0473925dc44c6b5678cc
+Author: oluwaseun ayodeji <ayodejibabajide@gmail.com>
+Date:   Sun Jul 19 15:50:03 2020 +0100
+
+    Initial commit for ruby sample application

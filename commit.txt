@@ -1,0 +1,44 @@
+b0508ca Create ee.md
+21a2a4d hh
+03b9df8 [GF1TES-1] #Comment Test if digit works
+c75531e SUP-1 #Comment This is Jira demo
+33c41b8 Create pull request
+74d4e86 Create maureenfile
+ca799f1 Create time.md
+5836dff Create filre
+4d3854d Create dembb
+12a9212 Create dem
+996c508 Merge pull request #16 from mytechconaorg/revert-15-Jaboo9-patch-6
+a90e86d Revert "checking out code review [deleted some comment] app.rb"
+1df052d Merge pull request #15 from mytechconaorg/Jaboo9-patch-6
+15e5cf5 Create file
+88b27aa Updating the code review commit
+4dc3cbb Update app.rb
+317d5c4 Update CODEOWNERS
+c08a59e Update README.md
+b8f8869 Merge pull request #11 from mytechconaorg/Jaboo9-patch-4
+4cba7ab Update CODEOWNERS
+6e7c8df Update app.rb
+6957046 Update app.rb
+a540d21 Update app.rb
+af20b06 Update app.rb
+2d6f475 Update app.rb
+bdbf317 Merge pull request #6 from mytechconaorg/jide2020-patch-4
+e7713bb Update app.rb
+087eb26 Update CODEOWNERS
+ac7a1e9 Merge pull request #5 from mytechconaorg/Jaboo9-patch-2
+bdb6520 Update app.rb
+bdb49d1 Merge pull request #4 from mytechconaorg/jide2020-patch-3
+edbb3f1 Update CODEOWNERS
+f2de664 Update CODEOWNERS
+2d690e2 Update app.rb
+41778eb Merge pull request #1 from mytechconaorg/Jaboo9-patch-1
+6ae7fc8 Update app.rb
+7ae0579 Update CODEOWNERS
+4d7b288 Update CODEOWNERS
+7cff55d Rename .CODEOWNERS to .github/CODEOWNERS
+95e0ad5 Rename CODEOWNERS to .CODEOWNERS
+b823bee Update app.rb
+f38ccae Update CODEOWNERS
+bbbcec8 Create CODEOWNERS
+6838725 Initial commit for ruby sample application
