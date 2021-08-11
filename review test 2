@@ -1,0 +1,24 @@
+{
+  repository(name: "sampleproj", owner: "jidetechconaorg") {
+    id
+    pullRequest(number: 64) {
+      reviews(first: 25) {
+        totalCount
+        nodes {
+          url
+          state
+          id
+        }
+      }
+      timelineItems(first: 25) {
+        nodes {
+          ... on PullRequestReview {
+            id
+            url
+            state
+          }
+        }
+      }
+    }
+  }
+}
