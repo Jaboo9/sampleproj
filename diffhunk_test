@@ -1,0 +1,5 @@
+First, I am using the 'addPullRequestReviewThread' mutation to post a multi-line comment on a pull request. This appears to be working correctly, as the comments show up correctly on GH.
+
+Next, I want to fetch comments from the pull requests and display them. I do this with a basic GraphQL query that fetches a PR by its owner, name, and pull request number. Out of this query, I am getting all information about the PR including repo info, user info, comments, etc.
+
+I want to take these comments and render them to the user, however, the diff hunks for the multi-line comments that I added from the post request earlier are not correct. These diff hunks (see image below) will contain the entire changed file so when I render them it appears as if the comment is on the entire portion of the file that was edited. On the other hand, if I create a multi-line comment on GH itself, the diff hunks are correct and only contain the portion of the file/code that the comment was on.
