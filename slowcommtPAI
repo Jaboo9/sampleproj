@@ -1,0 +1,9 @@
+GitHub's API has several layers of limits. For Search API there's the main rate limit of 30 code searches per minute, but there's also an anti-abuse rate limit which prevents lots of expensive requests from being made in a short period of time.
+
+https://docs.github.com/en/rest/reference/search#rate-limit
+
+https://docs.github.com/en/rest/guides/best-practices-for-integrators#dealing-with-abuse-rate-limits
+
+Code searches are in general very expensive to compute. They normally happen when you start making concurrent requests.
+
+Our general recommendation is to spread out your requests even more to avoid hitting limits, and if you do hit them -- you'll need to sleep for the number of seconds
