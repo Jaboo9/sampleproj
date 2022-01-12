@@ -7,3 +7,5 @@ https://docs.github.com/en/rest/guides/best-practices-for-integrators#dealing-wi
 Code searches are in general very expensive to compute. They normally happen when you start making concurrent requests.
 
 Our general recommendation is to spread out your requests even more to avoid hitting limits, and if you do hit them -- you'll need to sleep for the number of seconds
+
+Just few testing addition
