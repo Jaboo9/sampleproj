@@ -6,7 +6,7 @@
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
 
-# * @jidetechconaorg/apiteam31
+* @jidetechconaorg/apiteam31
 
 
 # Order is important; the last matching pattern takes the most
@@ -43,4 +43,3 @@
 
 *.py @jide2020
 
-* @jidetechconaorg/apiteam31
